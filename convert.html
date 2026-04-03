@@ -282,29 +282,51 @@ referral_source: Facebook"></textarea>
             'referral': 'referral'
         };
 
-        function parseEmail(text) {
-            const fields = {};
-            const lines = text.split('\n');
+        // Known form field names (lowercase) — used to detect label lines
+        const KNOWN_FIELDS = new Set(Object.keys(ALIASES));
 
+        function parseEmail(text) {
+            const lines = text.split('\n').map(l => l.trim()).filter(l => l.length > 0);
+
+            // Strategy 1: Try "key: value" on same line
+            const fields1 = {};
             for (const line of lines) {
-                // Match "key: value" or "key : value" patterns
                 const match = line.match(/^\s*([^:]+?)\s*:\s*(.+?)\s*$/);
                 if (!match) continue;
-
                 const rawKey = match[1].toLowerCase().trim();
                 const value = match[2].trim();
-
-                // Skip common email headers
                 if (['from', 'to', 'subject', 'date', 'sent', 'received', 'reply-to', 'cc', 'bcc'].includes(rawKey)) continue;
-                if (rawKey.startsWith('content-') || rawKey.startsWith('mime-')) continue;
-
+                if (rawKey.startsWith('content-') || rawKey.startsWith('mime-') || rawKey.startsWith('submitted')) continue;
                 const normalized = ALIASES[rawKey] || rawKey.replace(/[\s_]+/g, '_');
-                if (!fields[normalized]) {
-                    fields[normalized] = value;
+                if (!fields1[normalized]) fields1[normalized] = value;
+            }
+            if (Object.keys(fields1).length >= 3) return fields1;
+
+            // Strategy 2: Alternating lines (Formspree format)
+            // Label on one line, value on the next
+            const fields2 = {};
+            let pendingKey = null;
+
+            for (let i = 0; i < lines.length; i++) {
+                const lower = lines[i].toLowerCase();
+
+                if (KNOWN_FIELDS.has(lower)) {
+                    // This line is a known label
+                    pendingKey = ALIASES[lower];
+                } else if (pendingKey) {
+                    // This line is the value for the previous label
+                    if (!fields2[pendingKey]) fields2[pendingKey] = lines[i];
+                    pendingKey = null;
+                } else if (i === 0 && !fields2['name']) {
+                    // First line with no label above — assume it's the name
+                    fields2['name'] = lines[i];
                 }
             }
 
-            return fields;
+            if (Object.keys(fields2).length >= 2) return fields2;
+
+            // Fall back to whatever strategy 1 found
+            return fields1;
         }
 
         function buildURL(fields) {
