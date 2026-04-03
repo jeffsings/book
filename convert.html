@@ -229,6 +229,11 @@ referral_source: Facebook"></textarea>
         </div>
 
         <a class="btn btn-open" id="openBtn" href="#">Open in PlayPaid</a>
+
+        <div id="debugBox" style="display:none; margin-top:16px; padding:12px; background:#fff; border:1px solid var(--border); border-radius:8px; font-size:12px; word-break:break-all; color:var(--mid-gray);">
+            <strong>Generated URL:</strong><br>
+            <span id="debugURL"></span>
+        </div>
     </div>
 
     <script>
@@ -305,21 +310,32 @@ referral_source: Facebook"></textarea>
         function buildURL(fields) {
             const params = new URLSearchParams();
 
-            if (fields.name) params.set('name', fields.name);
-            if (fields.email) params.set('email', fields.email);
-            if (fields.phone) params.set('phone', fields.phone);
-            if (fields.event_type) params.set('event_type', fields.event_type);
-            if (fields.event_date) params.set('event_date', fields.event_date);
-            if (fields.start_time) params.set('start_time', fields.start_time);
-            if (fields.end_time) params.set('end_time', fields.end_time);
-            if (fields.venue) params.set('venue', fields.venue);
-            if (fields.setting) params.set('setting', fields.setting);
-            if (fields.power) params.set('power', fields.power);
-            if (fields.shelter) params.set('shelter', fields.shelter);
-            if (fields.message) params.set('message', fields.message);
-            if (fields.referral) params.set('referral', fields.referral);
+            // Map parsed field keys to URL parameter names
+            const KEY_MAP = {
+                'name': 'name',
+                'email': 'email',
+                'phone': 'phone',
+                'event_type': 'event_type',
+                'event_date': 'event_date',
+                'start_time': 'start_time',
+                'end_time': 'end_time',
+                'venue': 'venue',
+                'setting': 'setting',
+                'power': 'power',
+                'shelter': 'shelter',
+                'message': 'message',
+                'referral': 'referral'
+            };
 
-            return 'playpaid://gigbid?' + params.toString();
+            // Pass through all parsed fields, using mapped key or raw key
+            for (const [key, value] of Object.entries(fields)) {
+                const paramName = KEY_MAP[key] || key;
+                params.set(paramName, value);
+            }
+
+            const url = 'playpaid://gigbid?' + params.toString();
+            console.log('[Converter] Built URL:', url);
+            return url;
         }
 
         function convertEmail() {
@@ -379,6 +395,10 @@ referral_source: Facebook"></textarea>
             const url = buildURL(fields);
             openBtn.href = url;
             openBtn.style.display = 'block';
+
+            // Show debug URL
+            document.getElementById('debugURL').textContent = url;
+            document.getElementById('debugBox').style.display = 'block';
         }
     </script>
 </body>
