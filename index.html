@@ -314,24 +314,22 @@
             white-space: nowrap;
         }
 
-        .gig-time {
-            color: var(--mid-gray);
-            font-size: 13px;
-            white-space: nowrap;
-        }
-
         .gig-venue {
             font-weight: 600;
         }
 
-        .gig-location {
+        .gig-detail {
             color: var(--mid-gray);
             font-size: 13px;
         }
 
-        .gig-event {
-            font-style: italic;
-            color: var(--charcoal);
+        .venue-link {
+            color: var(--maroon);
+            text-decoration: none;
+        }
+
+        .venue-link:hover {
+            text-decoration: underline;
         }
 
         .no-gigs {
@@ -372,10 +370,6 @@
         @media (max-width: 480px) {
             .schedule-card {
                 padding: 20px 16px;
-            }
-            .gig-table th:nth-child(3),
-            .gig-table td:nth-child(3) {
-                display: none;
             }
         }
 </style>
@@ -545,25 +539,30 @@
                     var gigs = data.gigs;
                     var months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
                     var html = '<table class="gig-table"><thead><tr>' +
-                        '<th>Date</th><th>Venue</th><th>Time</th></tr></thead><tbody>';
+                        '<th>Date</th><th>Venue</th></tr></thead><tbody>';
 
                     for (var i = 0; i < gigs.length; i++) {
                         var g = gigs[i];
                         var parts = g.date.split('-');
                         var dateStr = months[parseInt(parts[1])-1] + ' ' + parseInt(parts[2]);
-                        var locHTML;
+                        var detailHTML;
                         if (g.isPrivate) {
-                            locHTML = '<em style="color:var(--mid-gray)">Private Event</em>';
+                            detailHTML = '<em style="color:var(--mid-gray)">Private Event</em>';
                         } else {
-                            var city = g.venueCity ? ' &middot; ' + esc(g.venueCity) : '';
-                            locHTML = esc(g.venueName) + '<span style="color:var(--mid-gray);font-size:13px">' + city + '</span>';
+                            var locPart = '';
+                            if (g.venueAddress) {
+                                var mapsURL = 'https://maps.apple.com/?q=' + encodeURIComponent(g.venueAddress);
+                                locPart = ' &middot; <a href="' + mapsURL + '" target="_blank" class="venue-link">' + esc(g.venueAddress) + '</a>';
+                            } else if (g.venueCity) {
+                                locPart = ' &middot; ' + esc(g.venueCity);
+                            }
+                            detailHTML = esc(g.startTime) + locPart;
                         }
                         html += '<tr>';
                         html += '<td><span class="gig-date">' + esc(g.dayOfWeek.substring(0,3).toUpperCase()) + '</span><br>' +
                                 '<span style="font-weight:400">' + dateStr + '</span></td>';
-                        html += '<td><span class="gig-venue">' + (g.isPrivate ? esc(g.venueName) : esc(g.eventName)) + '</span><br>' +
-                                '<span class="gig-location">' + locHTML + '</span></td>';
-                        html += '<td><span class="gig-time">' + esc(g.startTime) + ' \u2013 ' + esc(g.endTime) + '</span></td>';
+                        html += '<td><span class="gig-venue">' + esc(g.isPrivate ? 'Private Event' : g.venueName) + '</span><br>' +
+                                '<span class="gig-detail">' + detailHTML + '</span></td>';
                         html += '</tr>';
                     }
 
