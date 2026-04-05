@@ -1,5 +1,5 @@
 {
-  "generated" : "Apr 5, 2026 at 1:13 PM",
+  "generated" : "Apr 5, 2026 at 1:21 PM",
   "gigs" : [
     {
       "date" : "2026-04-11",
@@ -8,7 +8,7 @@
       "eventName" : "The Peninsula Club",
       "isPrivate" : false,
       "startTime" : "5:00 PM",
-      "venueAddress" : "19101 Peninsula Club Dr, Cornelius, NC  28031, United States",
+      "venueAddress" : "19101 Peninsula Club Dr, Cornelius, NC  28031",
       "venueCity" : "Cornelius",
       "venueName" : "The Peninsula Club"
     },
@@ -19,7 +19,7 @@
       "eventName" : "Charlotte Country Club",
       "isPrivate" : false,
       "startTime" : "6:00 PM",
-      "venueAddress" : "2465 Mecklenburg Ave, Charlotte, NC  28205, United States",
+      "venueAddress" : "2465 Mecklenburg Ave, Charlotte, NC  28205",
       "venueCity" : "Charlotte",
       "venueName" : "Charlotte Country Club"
     },
@@ -63,7 +63,7 @@
       "eventName" : "Southern Range",
       "isPrivate" : false,
       "startTime" : "6:00 PM",
-      "venueAddress" : "Southern Range Brewing\n151 S Stewart St, Monroe, NC  28112, United States",
+      "venueAddress" : "Southern Range Brewing 151 S Stewart St, Monroe, NC  28112",
       "venueCity" : "",
       "venueName" : "Southern Range"
     },
@@ -74,7 +74,7 @@
       "eventName" : "Franklin Court Grille",
       "isPrivate" : false,
       "startTime" : "6:00 PM",
-      "venueAddress" : "232 E Franklin St, Monroe, NC  28112, United States",
+      "venueAddress" : "232 E Franklin St, Monroe, NC  28112",
       "venueCity" : "Monroe",
       "venueName" : "Franklin Court Grille"
     },
@@ -142,7 +142,7 @@
       "startTime" : "6:00 PM",
       "venueAddress" : "",
       "venueCity" : "",
-      "venueName" : "Charlotte CC patio"
+      "venueName" : "Charlotte Country Club"
     },
     {
       "date" : "2026-06-20",
@@ -151,8 +151,8 @@
       "eventName" : "Local Logic Monroe",
       "isPrivate" : false,
       "startTime" : "6:00 PM",
-      "venueAddress" : "Local Logic\n128 S Main St, Monroe, NC  28112, United States",
-      "venueCity" : "",
+      "venueAddress" : "128 S Main St",
+      "venueCity" : "Monroe ",
       "venueName" : "Local Logic Monroe"
     },
     {
@@ -173,8 +173,8 @@
       "eventName" : "Franklin Court Grille",
       "isPrivate" : false,
       "startTime" : "5:30 PM",
-      "venueAddress" : "Franklin Court Grille\n232 E Franklin St, Monroe, NC  28112, United States",
-      "venueCity" : "",
+      "venueAddress" : "232 E Franklin St",
+      "venueCity" : "Monroe",
       "venueName" : "Franklin Court Grille"
     },
     {
