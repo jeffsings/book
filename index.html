@@ -547,7 +547,7 @@
                         var dateStr = months[parseInt(parts[1])-1] + ' ' + parseInt(parts[2]);
                         var detailHTML;
                         if (g.isPrivate) {
-                            detailHTML = '<em style="color:var(--mid-gray)">Private Event</em>';
+                            detailHTML = esc(g.startTime) + ' &middot; <em style="color:var(--mid-gray)">Private Event</em>';
                         } else {
                             var locPart = '';
                             if (g.venueAddress) {
