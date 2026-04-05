@@ -1,26 +1,26 @@
 {
-  "generated" : "Apr 5, 2026 at 3:00 AM",
+  "generated" : "Apr 5, 2026 at 1:13 PM",
   "gigs" : [
     {
       "date" : "2026-04-11",
       "dayOfWeek" : "Saturday",
       "endTime" : "8:00 PM",
-      "eventName" : "Private Event",
-      "isPrivate" : true,
+      "eventName" : "The Peninsula Club",
+      "isPrivate" : false,
       "startTime" : "5:00 PM",
-      "venueAddress" : "",
-      "venueCity" : "",
+      "venueAddress" : "19101 Peninsula Club Dr, Cornelius, NC  28031, United States",
+      "venueCity" : "Cornelius",
       "venueName" : "The Peninsula Club"
     },
     {
       "date" : "2026-04-17",
       "dayOfWeek" : "Friday",
       "endTime" : "9:16 PM",
-      "eventName" : "Private Event",
-      "isPrivate" : true,
+      "eventName" : "Charlotte Country Club",
+      "isPrivate" : false,
       "startTime" : "6:00 PM",
-      "venueAddress" : "",
-      "venueCity" : "",
+      "venueAddress" : "2465 Mecklenburg Ave, Charlotte, NC  28205, United States",
+      "venueCity" : "Charlotte",
       "venueName" : "Charlotte Country Club"
     },
     {
