@@ -317,7 +317,14 @@ footer{
   transform:translate(-50%,-50%);
   width:min(300px,78vw);
 }
-#logo-mic svg { width:100%;height:auto;display:block; }
+#logo-mic {
+  max-height:140px;
+  display:flex;align-items:center;justify-content:center;
+  overflow:hidden;
+}
+#logo-mic svg, #logo-mic img {
+  width:auto;height:140px;max-width:100%;display:block;
+}
 
 /* Logo text + mic initial state (hidden until .logo-ready animations fire) */
 #logo-jeff, #logo-somewhere, #logo-mic { opacity:0; }
@@ -703,7 +710,16 @@ footer{
     var endLeft   = vw - endW - 16;
     var left      = lerp(startLeft, endLeft, progress);
 
-    var startTop  = (vh / 2) - (startW * 0.45 / 2); // rough center-y
+    // When at rest (no scroll) let CSS handle centering
+    if (progress === 0) {
+      logo.style.transform = '';
+      logo.style.width     = '';
+      logo.style.left      = '';
+      logo.style.top       = '';
+      return;
+    }
+
+    var startTop  = (vh / 2) - (logo.offsetHeight / 2); // actual height
     var endTop    = 10;
     var top       = lerp(startTop, endTop, progress);
 
