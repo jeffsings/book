@@ -395,7 +395,7 @@ footer{
 </div>
 
 <div id="introSection">
-  <audio id="jeffAudio" src="audio.m4a" preload="none"></audio>
+  <audio id="jeffAudio" preload="none"></audio>
   <button id="audioBtn" class="audio-btn" onclick="toggleAudio()">&#9834;&nbsp;Listen to Jeff</button>
   <div class="intro-scroll-hint">
     <span>Scroll</span>
@@ -715,6 +715,35 @@ footer{
 })();
 
 // ── Audio toggle ──────────────────────────────────────────────────────────────
+// ── Audio: fetch clip list from GitHub, rotate per visit ─────────────────────
+(function() {
+  var REPO    = 'jeffsings/book';
+  var FOLDER  = 'audio';
+  var audioEl = document.getElementById('jeffAudio');
+  var btn     = document.getElementById('audioBtn');
+
+  function hidePlayer() { if (btn) btn.style.display = 'none'; }
+
+  fetch('https://api.github.com/repos/' + REPO + '/contents/' + FOLDER,
+        { headers: { 'Accept': 'application/vnd.github+json' } })
+    .then(function(r) { return r.ok ? r.json() : null; })
+    .catch(function()  { return null; })
+    .then(function(files) {
+      if (!files || !Array.isArray(files)) { hidePlayer(); return; }
+      var exts = /\.(mp3|m4a|wav|ogg|aac)$/i;
+      var clips = files
+        .filter(function(f) { return f.type === 'file' && exts.test(f.name); })
+        .sort(function(a, b) { return a.name.localeCompare(b.name); })
+        .map(function(f) { return f.download_url; });
+      if (!clips.length) { hidePlayer(); return; }
+      var idx = parseInt(localStorage.getItem('jrClipIndex') || '0', 10);
+      if (isNaN(idx) || idx >= clips.length) idx = 0;
+      localStorage.setItem('jrClipIndex', String((idx + 1) % clips.length));
+      audioEl.src = clips[idx];
+      audioEl.load();
+    });
+})();
+
 function toggleAudio() {
   var audio = document.getElementById('jeffAudio');
   var btn   = document.getElementById('audioBtn');
