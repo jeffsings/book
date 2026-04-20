@@ -1,39 +1,6 @@
 {
-  "generated" : "Apr 8, 2026 at 12:54 AM",
+  "generated" : "Apr 20, 2026 at 7:30 PM",
   "gigs" : [
-    {
-      "date" : "2026-04-11",
-      "dayOfWeek" : "Saturday",
-      "endTime" : "8:00 PM",
-      "eventName" : "The Peninsula Club",
-      "isPrivate" : false,
-      "startTime" : "5:00 PM",
-      "venueAddress" : "19101 Peninsula Club Dr, Cornelius, NC  28031",
-      "venueCity" : "Cornelius",
-      "venueName" : "The Peninsula Club"
-    },
-    {
-      "date" : "2026-04-17",
-      "dayOfWeek" : "Friday",
-      "endTime" : "9:16 PM",
-      "eventName" : "Charlotte Country Club",
-      "isPrivate" : false,
-      "startTime" : "6:00 PM",
-      "venueAddress" : "2465 Mecklenburg Ave, Charlotte, NC  28205",
-      "venueCity" : "Charlotte",
-      "venueName" : "Charlotte Country Club"
-    },
-    {
-      "date" : "2026-04-18",
-      "dayOfWeek" : "Saturday",
-      "endTime" : "9:15 PM",
-      "eventName" : "Private Event",
-      "isPrivate" : true,
-      "startTime" : "6:20 PM",
-      "venueAddress" : "",
-      "venueCity" : "",
-      "venueName" : "Charlotte Country Club"
-    },
     {
       "date" : "2026-05-01",
       "dayOfWeek" : "Friday",
@@ -178,6 +145,17 @@
       "venueName" : "Franklin Court Grille"
     },
     {
+      "date" : "2026-07-03",
+      "dayOfWeek" : "Friday",
+      "endTime" : "10:00 PM",
+      "eventName" : "Peddlers Paradise Monroe",
+      "isPrivate" : false,
+      "startTime" : "7:00 PM",
+      "venueAddress" : "105 W Franklin St, Monroe, NC  28112, United States",
+      "venueCity" : "Monroe",
+      "venueName" : "Peddlers Paradise Monroe"
+    },
+    {
       "date" : "2026-07-04",
       "dayOfWeek" : "Saturday",
       "endTime" : "6:00 PM",
@@ -209,17 +187,6 @@
       "venueAddress" : "Franklin Court Grille\n232 E Franklin St, Monroe, NC  28112, United States",
       "venueCity" : "",
       "venueName" : "Franklin Court Grille"
-    },
-    {
-      "date" : "2026-07-19",
-      "dayOfWeek" : "Sunday",
-      "endTime" : "10:00 PM",
-      "eventName" : "Peddlers Paradise",
-      "isPrivate" : false,
-      "startTime" : "7:00 PM",
-      "venueAddress" : "Peddlers Paradise Monroe\n105 W Franklin St, Monroe, NC  28112, United States",
-      "venueCity" : "",
-      "venueName" : "Peddlers Paradise"
     },
     {
       "date" : "2026-07-24",
