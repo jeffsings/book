@@ -1,5 +1,5 @@
 {
-  "generated" : "Apr 21, 2026 at 8:35 PM",
+  "generated" : "Apr 22, 2026 at 12:36 AM",
   "gigs" : [
     {
       "date" : "2026-05-01",
@@ -165,6 +165,17 @@
       "venueAddress" : "315 Lester Davis Rd Waxhaw, NC, United States",
       "venueCity" : "",
       "venueName" : "Private party"
+    },
+    {
+      "date" : "2026-07-04",
+      "dayOfWeek" : "Saturday",
+      "endTime" : "9:30 PM",
+      "eventName" : "Franklin Court Grille",
+      "isPrivate" : false,
+      "startTime" : "7:30 PM",
+      "venueAddress" : "232 E Franklin St, Monroe, NC  28112, United States",
+      "venueCity" : "Monroe",
+      "venueName" : "Franklin Court Grille"
     },
     {
       "date" : "2026-07-17",
