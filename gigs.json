@@ -1,13 +1,24 @@
 {
-  "generated" : "Apr 20, 2026 at 7:30 PM",
+  "generated" : "Apr 21, 2026 at 8:32 PM",
   "gigs" : [
+    {
+      "date" : "2026-04-21",
+      "dayOfWeek" : "Tuesday",
+      "endTime" : "9 PM",
+      "eventName" : "test",
+      "isPrivate" : false,
+      "startTime" : "6 PM",
+      "venueAddress" : "",
+      "venueCity" : "",
+      "venueName" : "test"
+    },
     {
       "date" : "2026-05-01",
       "dayOfWeek" : "Friday",
-      "endTime" : "10:00 PM",
+      "endTime" : "10 PM",
       "eventName" : "Local Logic",
       "isPrivate" : false,
-      "startTime" : "7:00 PM",
+      "startTime" : "7 PM",
       "venueAddress" : "121 S Main St, Mount Holly, NC  28120, United States",
       "venueCity" : "Mount Holly",
       "venueName" : "Local Logic"
@@ -26,10 +37,10 @@
     {
       "date" : "2026-05-15",
       "dayOfWeek" : "Friday",
-      "endTime" : "9:00 PM",
+      "endTime" : "9 PM",
       "eventName" : "Southern Range",
       "isPrivate" : false,
-      "startTime" : "6:00 PM",
+      "startTime" : "6 PM",
       "venueAddress" : "Southern Range Brewing 151 S Stewart St, Monroe, NC  28112",
       "venueCity" : "",
       "venueName" : "Southern Range"
@@ -40,7 +51,7 @@
       "endTime" : "9:05 PM",
       "eventName" : "Franklin Court Grille",
       "isPrivate" : false,
-      "startTime" : "6:00 PM",
+      "startTime" : "6 PM",
       "venueAddress" : "232 E Franklin St, Monroe, NC  28112",
       "venueCity" : "Monroe",
       "venueName" : "Franklin Court Grille"
@@ -51,7 +62,7 @@
       "endTime" : "8:16 PM",
       "eventName" : "Harris-Teeter Weddington",
       "isPrivate" : false,
-      "startTime" : "5:00 PM",
+      "startTime" : "5 PM",
       "venueAddress" : "5920 Weddington Rd",
       "venueCity" : "Charlotte NC",
       "venueName" : "Harris-Teeter Weddington"
@@ -59,10 +70,10 @@
     {
       "date" : "2026-05-22",
       "dayOfWeek" : "Friday",
-      "endTime" : "9:00 PM",
+      "endTime" : "9 PM",
       "eventName" : "Private Event",
       "isPrivate" : true,
-      "startTime" : "6:00 PM",
+      "startTime" : "6 PM",
       "venueAddress" : "",
       "venueCity" : "",
       "venueName" : "Charlotte CC patio"
@@ -70,10 +81,10 @@
     {
       "date" : "2026-05-29",
       "dayOfWeek" : "Friday",
-      "endTime" : "8:00 PM",
+      "endTime" : "8 PM",
       "eventName" : "Harris-Teeter S. Sharon Amity",
       "isPrivate" : false,
-      "startTime" : "5:00 PM",
+      "startTime" : "5 PM",
       "venueAddress" : "112 S Sharon Amity Rd",
       "venueCity" : "Charlotte NC",
       "venueName" : "Harris-Teeter S. Sharon Amity"
@@ -81,7 +92,7 @@
     {
       "date" : "2026-06-05",
       "dayOfWeek" : "Friday",
-      "endTime" : "9:00 PM",
+      "endTime" : "9 PM",
       "eventName" : "Private Event",
       "isPrivate" : true,
       "startTime" : "6:16 PM",
@@ -92,10 +103,10 @@
     {
       "date" : "2026-06-06",
       "dayOfWeek" : "Saturday",
-      "endTime" : "5:00 PM",
+      "endTime" : "5 PM",
       "eventName" : "Belk fundraiser",
       "isPrivate" : false,
-      "startTime" : "2:00 PM",
+      "startTime" : "2 PM",
       "venueAddress" : "Monroe, NC",
       "venueCity" : "",
       "venueName" : "Belk fundraiser"
@@ -103,10 +114,10 @@
     {
       "date" : "2026-06-19",
       "dayOfWeek" : "Friday",
-      "endTime" : "9:00 PM",
+      "endTime" : "9 PM",
       "eventName" : "Private Event",
       "isPrivate" : true,
-      "startTime" : "6:00 PM",
+      "startTime" : "6 PM",
       "venueAddress" : "",
       "venueCity" : "",
       "venueName" : "Charlotte Country Club"
@@ -114,10 +125,10 @@
     {
       "date" : "2026-06-20",
       "dayOfWeek" : "Saturday",
-      "endTime" : "9:00 PM",
+      "endTime" : "9 PM",
       "eventName" : "Local Logic Monroe",
       "isPrivate" : false,
-      "startTime" : "6:00 PM",
+      "startTime" : "6 PM",
       "venueAddress" : "128 S Main St",
       "venueCity" : "Monroe ",
       "venueName" : "Local Logic Monroe"
@@ -128,7 +139,7 @@
       "endTime" : "9:16 PM",
       "eventName" : "Private Event",
       "isPrivate" : true,
-      "startTime" : "6:00 PM",
+      "startTime" : "6 PM",
       "venueAddress" : "",
       "venueCity" : "",
       "venueName" : "Peninsula Club"
@@ -147,10 +158,10 @@
     {
       "date" : "2026-07-03",
       "dayOfWeek" : "Friday",
-      "endTime" : "10:00 PM",
+      "endTime" : "10 PM",
       "eventName" : "Peddlers Paradise Monroe",
       "isPrivate" : false,
-      "startTime" : "7:00 PM",
+      "startTime" : "7 PM",
       "venueAddress" : "105 W Franklin St, Monroe, NC  28112, United States",
       "venueCity" : "Monroe",
       "venueName" : "Peddlers Paradise Monroe"
@@ -158,10 +169,10 @@
     {
       "date" : "2026-07-04",
       "dayOfWeek" : "Saturday",
-      "endTime" : "6:00 PM",
+      "endTime" : "6 PM",
       "eventName" : "Private party",
       "isPrivate" : false,
-      "startTime" : "3:00 PM",
+      "startTime" : "3 PM",
       "venueAddress" : "315 Lester Davis Rd Waxhaw, NC, United States",
       "venueCity" : "",
       "venueName" : "Private party"
@@ -169,10 +180,10 @@
     {
       "date" : "2026-07-17",
       "dayOfWeek" : "Friday",
-      "endTime" : "9:00 PM",
+      "endTime" : "9 PM",
       "eventName" : "Private Event",
       "isPrivate" : true,
-      "startTime" : "6:00 PM",
+      "startTime" : "6 PM",
       "venueAddress" : "",
       "venueCity" : "",
       "venueName" : "Rolling Hills Country Club"
@@ -180,7 +191,7 @@
     {
       "date" : "2026-07-18",
       "dayOfWeek" : "Saturday",
-      "endTime" : "9:00 PM",
+      "endTime" : "9 PM",
       "eventName" : "Franklin Court Grille",
       "isPrivate" : false,
       "startTime" : "5:30 PM",
@@ -191,10 +202,10 @@
     {
       "date" : "2026-07-24",
       "dayOfWeek" : "Friday",
-      "endTime" : "10:00 PM",
+      "endTime" : "10 PM",
       "eventName" : "Local Logic",
       "isPrivate" : false,
-      "startTime" : "7:00 PM",
+      "startTime" : "7 PM",
       "venueAddress" : "121 S Main St, Mount Holly, NC  28120, United States",
       "venueCity" : "Mount Holly",
       "venueName" : "Local Logic"
@@ -202,10 +213,10 @@
     {
       "date" : "2026-07-25",
       "dayOfWeek" : "Saturday",
-      "endTime" : "9:00 PM",
+      "endTime" : "9 PM",
       "eventName" : "Southern Range",
       "isPrivate" : false,
-      "startTime" : "6:00 PM",
+      "startTime" : "6 PM",
       "venueAddress" : "Southern Range Brewing\n151 S Stewart St, Monroe, NC  28112, United States",
       "venueCity" : "",
       "venueName" : "Southern Range"
@@ -213,10 +224,10 @@
     {
       "date" : "2026-08-01",
       "dayOfWeek" : "Saturday",
-      "endTime" : "9:00 PM",
+      "endTime" : "9 PM",
       "eventName" : "Private Event",
       "isPrivate" : true,
-      "startTime" : "6:00 PM",
+      "startTime" : "6 PM",
       "venueAddress" : "",
       "venueCity" : "",
       "venueName" : "The Peninsula Club"
@@ -235,7 +246,7 @@
     {
       "date" : "2026-08-22",
       "dayOfWeek" : "Saturday",
-      "endTime" : "9:00 PM",
+      "endTime" : "9 PM",
       "eventName" : "Franklin Court Grille",
       "isPrivate" : false,
       "startTime" : "5:30 PM",
@@ -246,10 +257,10 @@
     {
       "date" : "2026-09-04",
       "dayOfWeek" : "Friday",
-      "endTime" : "10:00 PM",
+      "endTime" : "10 PM",
       "eventName" : "Local Logic",
       "isPrivate" : false,
-      "startTime" : "7:00 PM",
+      "startTime" : "7 PM",
       "venueAddress" : "121 S Main St, Mount Holly, NC  28120, United States",
       "venueCity" : "Mount Holly",
       "venueName" : "Local Logic"
@@ -257,10 +268,10 @@
     {
       "date" : "2026-09-05",
       "dayOfWeek" : "Saturday",
-      "endTime" : "9:00 PM",
+      "endTime" : "9 PM",
       "eventName" : "Southern Range",
       "isPrivate" : false,
-      "startTime" : "6:00 PM",
+      "startTime" : "6 PM",
       "venueAddress" : "Southern Range Brewing\n151 S Stewart St, Monroe, NC  28112, United States",
       "venueCity" : "",
       "venueName" : "Southern Range"
@@ -268,7 +279,7 @@
     {
       "date" : "2026-09-12",
       "dayOfWeek" : "Saturday",
-      "endTime" : "9:00 PM",
+      "endTime" : "9 PM",
       "eventName" : "Franklin Court Grille",
       "isPrivate" : false,
       "startTime" : "5:30 PM",
@@ -279,10 +290,10 @@
     {
       "date" : "2026-09-18",
       "dayOfWeek" : "Friday",
-      "endTime" : "9:00 PM",
+      "endTime" : "9 PM",
       "eventName" : "Private Event",
       "isPrivate" : true,
-      "startTime" : "6:00 PM",
+      "startTime" : "6 PM",
       "venueAddress" : "",
       "venueCity" : "",
       "venueName" : "Murphy rehearsal"
@@ -301,10 +312,10 @@
     {
       "date" : "2026-10-02",
       "dayOfWeek" : "Friday",
-      "endTime" : "9:00 PM",
+      "endTime" : "9 PM",
       "eventName" : "Private Event",
       "isPrivate" : true,
-      "startTime" : "6:00 PM",
+      "startTime" : "6 PM",
       "venueAddress" : "",
       "venueCity" : "",
       "venueName" : "Charlotte CC patio"
@@ -312,10 +323,10 @@
     {
       "date" : "2026-10-09",
       "dayOfWeek" : "Friday",
-      "endTime" : "9:00 PM",
+      "endTime" : "9 PM",
       "eventName" : "Private Event",
       "isPrivate" : true,
-      "startTime" : "6:00 PM",
+      "startTime" : "6 PM",
       "venueAddress" : "",
       "venueCity" : "",
       "venueName" : "Charlotte CC patio"
@@ -323,10 +334,10 @@
     {
       "date" : "2026-10-10",
       "dayOfWeek" : "Saturday",
-      "endTime" : "9:00 PM",
+      "endTime" : "9 PM",
       "eventName" : "Local Logic Monroe",
       "isPrivate" : false,
-      "startTime" : "6:00 PM",
+      "startTime" : "6 PM",
       "venueAddress" : "Local Logic\n128 S Main St, Monroe, NC  28112, United States",
       "venueCity" : "",
       "venueName" : "Local Logic Monroe"
@@ -334,10 +345,10 @@
     {
       "date" : "2026-10-16",
       "dayOfWeek" : "Friday",
-      "endTime" : "9:00 PM",
+      "endTime" : "9 PM",
       "eventName" : "Private Event",
       "isPrivate" : true,
-      "startTime" : "6:00 PM",
+      "startTime" : "6 PM",
       "venueAddress" : "",
       "venueCity" : "",
       "venueName" : "Marci Micciantuono daughter wedding"
@@ -345,7 +356,7 @@
     {
       "date" : "2026-10-17",
       "dayOfWeek" : "Saturday",
-      "endTime" : "9:00 PM",
+      "endTime" : "9 PM",
       "eventName" : "Franklin Court Grille",
       "isPrivate" : false,
       "startTime" : "5:30 PM",
@@ -356,10 +367,10 @@
     {
       "date" : "2026-10-23",
       "dayOfWeek" : "Friday",
-      "endTime" : "10:00 PM",
+      "endTime" : "10 PM",
       "eventName" : "Peddlers Paradise Monroe",
       "isPrivate" : false,
-      "startTime" : "7:00 PM",
+      "startTime" : "7 PM",
       "venueAddress" : "105 W Franklin St, Monroe, NC  28112, United States",
       "venueCity" : "Monroe",
       "venueName" : "Peddlers Paradise Monroe"
@@ -378,10 +389,10 @@
     {
       "date" : "2026-11-06",
       "dayOfWeek" : "Friday",
-      "endTime" : "10:00 PM",
+      "endTime" : "10 PM",
       "eventName" : "Local Logic",
       "isPrivate" : false,
-      "startTime" : "7:00 PM",
+      "startTime" : "7 PM",
       "venueAddress" : "121 S Main St, Mount Holly, NC  28120, United States",
       "venueCity" : "Mount Holly",
       "venueName" : "Local Logic"
@@ -389,10 +400,10 @@
     {
       "date" : "2026-11-07",
       "dayOfWeek" : "Saturday",
-      "endTime" : "9:00 PM",
+      "endTime" : "9 PM",
       "eventName" : "Southern Range",
       "isPrivate" : false,
-      "startTime" : "6:00 PM",
+      "startTime" : "6 PM",
       "venueAddress" : "Southern Range Brewing\n151 S Stewart St, Monroe, NC  28112, United States",
       "venueCity" : "",
       "venueName" : "Southern Range"
