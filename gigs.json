@@ -1,17 +1,6 @@
 {
-  "generated" : "Apr 21, 2026 at 8:34 PM",
+  "generated" : "Apr 21, 2026 at 8:35 PM",
   "gigs" : [
-    {
-      "date" : "2026-04-21",
-      "dayOfWeek" : "Tuesday",
-      "endTime" : "9 PM",
-      "eventName" : "test",
-      "isPrivate" : false,
-      "startTime" : "6 PM",
-      "venueAddress" : "",
-      "venueCity" : "",
-      "venueName" : "test"
-    },
     {
       "date" : "2026-05-01",
       "dayOfWeek" : "Friday",
