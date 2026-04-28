@@ -1,5 +1,5 @@
 {
-  "generated" : "Apr 22, 2026 at 12:38 AM",
+  "generated" : "Apr 28, 2026 at 6:03 PM",
   "gigs" : [
     {
       "date" : "2026-05-01",
@@ -21,7 +21,7 @@
       "startTime" : "5:30 PM",
       "venueAddress" : "",
       "venueCity" : "",
-      "venueName" : "Private  party"
+      "venueName" : "Private Party"
     },
     {
       "date" : "2026-05-15",
@@ -66,6 +66,17 @@
       "venueAddress" : "",
       "venueCity" : "",
       "venueName" : "Charlotte CC patio"
+    },
+    {
+      "date" : "2026-05-24",
+      "dayOfWeek" : "Sunday",
+      "endTime" : "6 PM",
+      "eventName" : "Peddlers Paradise Monroe",
+      "isPrivate" : false,
+      "startTime" : "3 PM",
+      "venueAddress" : "105 W Franklin St, Monroe, NC  28112, United States",
+      "venueCity" : "Monroe",
+      "venueName" : "Peddlers Paradise Monroe"
     },
     {
       "date" : "2026-05-29",
