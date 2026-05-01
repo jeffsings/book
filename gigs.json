@@ -1,5 +1,5 @@
 {
-  "generated" : "Apr 29, 2026 at 10:53 PM",
+  "generated" : "May 1, 2026 at 2:55 PM",
   "gigs" : [
     {
       "date" : "2026-05-01",
@@ -8,31 +8,20 @@
       "eventName" : "Local Logic",
       "isPrivate" : false,
       "startTime" : "7 PM",
-      "venueAddress" : "121 S Main St, Mount Holly, NC  28120, United States",
+      "venueAddress" : "121 S Main St, Mount Holly, NC  28120, United States, Mount Holly",
       "venueCity" : "Mount Holly",
       "venueName" : "Local Logic"
-    },
-    {
-      "date" : "2026-05-02",
-      "dayOfWeek" : "Saturday",
-      "endTime" : "8:16 PM",
-      "eventName" : "Private Event",
-      "isPrivate" : true,
-      "startTime" : "5:30 PM",
-      "venueAddress" : "",
-      "venueCity" : "",
-      "venueName" : "Private Party"
     },
     {
       "date" : "2026-05-15",
       "dayOfWeek" : "Friday",
       "endTime" : "9 PM",
-      "eventName" : "Southern Range",
+      "eventName" : "Southern Range Brewing",
       "isPrivate" : false,
       "startTime" : "6 PM",
-      "venueAddress" : "Southern Range Brewing 151 S Stewart St, Monroe, NC  28112",
-      "venueCity" : "",
-      "venueName" : "Southern Range"
+      "venueAddress" : "151 S Stewart St",
+      "venueCity" : "Monroe",
+      "venueName" : "Southern Range Brewing"
     },
     {
       "date" : "2026-05-16",
@@ -66,6 +55,17 @@
       "venueAddress" : "",
       "venueCity" : "",
       "venueName" : "Charlotte CC patio"
+    },
+    {
+      "date" : "2026-05-23",
+      "dayOfWeek" : "Saturday",
+      "endTime" : "8:16 PM",
+      "eventName" : "Private Event",
+      "isPrivate" : true,
+      "startTime" : "5:30 PM",
+      "venueAddress" : "",
+      "venueCity" : "",
+      "venueName" : "Private Party"
     },
     {
       "date" : "2026-05-24",
@@ -142,7 +142,7 @@
       "startTime" : "6 PM",
       "venueAddress" : "",
       "venueCity" : "",
-      "venueName" : "Peninsula Club"
+      "venueName" : "The Peninsula Club"
     },
     {
       "date" : "2026-06-27",
@@ -162,7 +162,7 @@
       "eventName" : "Peddlers Paradise Monroe",
       "isPrivate" : false,
       "startTime" : "7 PM",
-      "venueAddress" : "105 W Franklin St, Monroe, NC  28112, United States",
+      "venueAddress" : "105 W Franklin St, Monroe, NC  28112, United States, Monroe",
       "venueCity" : "Monroe",
       "venueName" : "Peddlers Paradise Monroe"
     },
@@ -286,6 +286,17 @@
       "venueAddress" : "Southern Range Brewing\n151 S Stewart St, Monroe, NC  28112, United States",
       "venueCity" : "",
       "venueName" : "Southern Range"
+    },
+    {
+      "date" : "2026-09-11",
+      "dayOfWeek" : "Friday",
+      "endTime" : "9 PM",
+      "eventName" : "Charlotte Country Club",
+      "isPrivate" : false,
+      "startTime" : "6 PM",
+      "venueAddress" : "2465 Mecklenburg Ave, Charlotte, NC  28205, United States",
+      "venueCity" : "Charlotte",
+      "venueName" : "Charlotte Country Club"
     },
     {
       "date" : "2026-09-12",
