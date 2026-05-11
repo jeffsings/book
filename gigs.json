@@ -1,17 +1,6 @@
 {
-  "generated" : "May 1, 2026 at 2:55 PM",
+  "generated" : "May 11, 2026 at 10:39 AM",
   "gigs" : [
-    {
-      "date" : "2026-05-01",
-      "dayOfWeek" : "Friday",
-      "endTime" : "10 PM",
-      "eventName" : "Local Logic",
-      "isPrivate" : false,
-      "startTime" : "7 PM",
-      "venueAddress" : "121 S Main St, Mount Holly, NC  28120, United States, Mount Holly",
-      "venueCity" : "Mount Holly",
-      "venueName" : "Local Logic"
-    },
     {
       "date" : "2026-05-15",
       "dayOfWeek" : "Friday",
