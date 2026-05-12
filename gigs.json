@@ -1,5 +1,5 @@
 {
-  "generated" : "May 12, 2026 at 3:25 PM",
+  "generated" : "May 12, 2026 at 4:07 PM",
   "gigs" : [
     {
       "date" : "2026-05-15",
@@ -82,12 +82,12 @@
       "date" : "2026-05-30",
       "dayOfWeek" : "Saturday",
       "endTime" : "9 PM",
-      "eventName" : "232 E Franklin St",
+      "eventName" : "Franklin Court Grille",
       "isPrivate" : false,
       "startTime" : "6 PM",
-      "venueAddress" : "232 E Franklin St, Monroe, NC  28112, United States",
+      "venueAddress" : "232 E Franklin St, Monroe, NC  28112, United States, Monroe",
       "venueCity" : "Monroe",
-      "venueName" : "232 E Franklin St"
+      "venueName" : "Franklin Court Grille"
     },
     {
       "date" : "2026-06-05",
