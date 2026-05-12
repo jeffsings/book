@@ -1,5 +1,5 @@
 {
-  "generated" : "May 11, 2026 at 10:40 AM",
+  "generated" : "May 12, 2026 at 3:25 PM",
   "gigs" : [
     {
       "date" : "2026-05-15",
@@ -77,6 +77,17 @@
       "venueAddress" : "112 S Sharon Amity Rd",
       "venueCity" : "Charlotte NC",
       "venueName" : "Harris-Teeter S. Sharon Amity"
+    },
+    {
+      "date" : "2026-05-30",
+      "dayOfWeek" : "Saturday",
+      "endTime" : "9 PM",
+      "eventName" : "232 E Franklin St",
+      "isPrivate" : false,
+      "startTime" : "6 PM",
+      "venueAddress" : "232 E Franklin St, Monroe, NC  28112, United States",
+      "venueCity" : "Monroe",
+      "venueName" : "232 E Franklin St"
     },
     {
       "date" : "2026-06-05",
