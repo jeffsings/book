@@ -1,5 +1,5 @@
 {
-  "generated" : "May 12, 2026 at 4:09 PM",
+  "generated" : "May 14, 2026 at 9:32 PM",
   "gigs" : [
     {
       "date" : "2026-05-15",
@@ -37,10 +37,10 @@
     {
       "date" : "2026-05-22",
       "dayOfWeek" : "Friday",
-      "endTime" : "9 PM",
+      "endTime" : "9:30 PM",
       "eventName" : "Private Event",
       "isPrivate" : true,
-      "startTime" : "6 PM",
+      "startTime" : "6:30 PM",
       "venueAddress" : "",
       "venueCity" : "",
       "venueName" : "Charlotte CC patio"
@@ -92,10 +92,10 @@
     {
       "date" : "2026-06-05",
       "dayOfWeek" : "Friday",
-      "endTime" : "9 PM",
+      "endTime" : "9:30 PM",
       "eventName" : "Private Event",
       "isPrivate" : true,
-      "startTime" : "6:16 PM",
+      "startTime" : "6:30 PM",
       "venueAddress" : "",
       "venueCity" : "",
       "venueName" : "Charlotte CC patio"
@@ -114,10 +114,10 @@
     {
       "date" : "2026-06-19",
       "dayOfWeek" : "Friday",
-      "endTime" : "9 PM",
+      "endTime" : "9:30 PM",
       "eventName" : "Private Event",
       "isPrivate" : true,
-      "startTime" : "6 PM",
+      "startTime" : "6:30 PM",
       "venueAddress" : "",
       "venueCity" : "",
       "venueName" : "Charlotte Country Club"
@@ -290,10 +290,10 @@
     {
       "date" : "2026-09-11",
       "dayOfWeek" : "Friday",
-      "endTime" : "9 PM",
+      "endTime" : "9:30 PM",
       "eventName" : "Charlotte Country Club",
       "isPrivate" : false,
-      "startTime" : "6 PM",
+      "startTime" : "6:30 PM",
       "venueAddress" : "2465 Mecklenburg Ave, Charlotte, NC  28205, United States",
       "venueCity" : "Charlotte",
       "venueName" : "Charlotte Country Club"
@@ -334,10 +334,10 @@
     {
       "date" : "2026-10-02",
       "dayOfWeek" : "Friday",
-      "endTime" : "9 PM",
+      "endTime" : "9:30 PM",
       "eventName" : "Private Event",
       "isPrivate" : true,
-      "startTime" : "6 PM",
+      "startTime" : "6:30 PM",
       "venueAddress" : "",
       "venueCity" : "",
       "venueName" : "Charlotte CC patio"
@@ -345,10 +345,10 @@
     {
       "date" : "2026-10-09",
       "dayOfWeek" : "Friday",
-      "endTime" : "9 PM",
+      "endTime" : "9:30 PM",
       "eventName" : "Private Event",
       "isPrivate" : true,
-      "startTime" : "6 PM",
+      "startTime" : "6:30 PM",
       "venueAddress" : "",
       "venueCity" : "",
       "venueName" : "Charlotte CC patio"
