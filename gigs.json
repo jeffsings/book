@@ -1,28 +1,6 @@
 {
-  "generated" : "May 14, 2026 at 9:32 PM",
+  "generated" : "May 18, 2026 at 7:29 PM",
   "gigs" : [
-    {
-      "date" : "2026-05-15",
-      "dayOfWeek" : "Friday",
-      "endTime" : "9 PM",
-      "eventName" : "Southern Range Brewing",
-      "isPrivate" : false,
-      "startTime" : "6 PM",
-      "venueAddress" : "151 S Stewart St",
-      "venueCity" : "Monroe",
-      "venueName" : "Southern Range Brewing"
-    },
-    {
-      "date" : "2026-05-16",
-      "dayOfWeek" : "Saturday",
-      "endTime" : "9:05 PM",
-      "eventName" : "Franklin Court Grille",
-      "isPrivate" : false,
-      "startTime" : "6 PM",
-      "venueAddress" : "232 E Franklin St, Monroe, NC  28112",
-      "venueCity" : "Monroe",
-      "venueName" : "Franklin Court Grille"
-    },
     {
       "date" : "2026-05-21",
       "dayOfWeek" : "Thursday",
