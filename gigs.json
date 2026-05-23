@@ -1,17 +1,6 @@
 {
-  "generated" : "May 22, 2026 at 4:48 PM",
+  "generated" : "May 23, 2026 at 9:04 AM",
   "gigs" : [
-    {
-      "date" : "2026-05-22",
-      "dayOfWeek" : "Friday",
-      "endTime" : "9:30 PM",
-      "eventName" : "Private Event",
-      "isPrivate" : true,
-      "startTime" : "6:30 PM",
-      "venueAddress" : "",
-      "venueCity" : "",
-      "venueName" : "Charlotte CC patio"
-    },
     {
       "date" : "2026-05-23",
       "dayOfWeek" : "Saturday",
