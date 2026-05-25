@@ -1,5 +1,5 @@
 {
-  "generated" : "May 25, 2026 at 1:55 PM",
+  "generated" : "May 25, 2026 at 2:00 PM",
   "gigs" : [
     {
       "date" : "2026-05-29",
@@ -33,17 +33,6 @@
       "venueAddress" : "",
       "venueCity" : "",
       "venueName" : "Charlotte CC patio"
-    },
-    {
-      "date" : "2026-06-06",
-      "dayOfWeek" : "Saturday",
-      "endTime" : "5 PM",
-      "eventName" : "Belk fundraiser",
-      "isPrivate" : false,
-      "startTime" : "2 PM",
-      "venueAddress" : "Monroe, NC",
-      "venueCity" : "",
-      "venueName" : "Belk fundraiser"
     },
     {
       "date" : "2026-06-19",
