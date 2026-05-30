@@ -1,28 +1,6 @@
 {
-  "generated" : "May 26, 2026 at 7:07 AM",
+  "generated" : "May 30, 2026 at 5:01 PM",
   "gigs" : [
-    {
-      "date" : "2026-05-29",
-      "dayOfWeek" : "Friday",
-      "endTime" : "8 PM",
-      "eventName" : "Harris-Teeter S. Sharon Amity",
-      "isPrivate" : false,
-      "startTime" : "5 PM",
-      "venueAddress" : "112 S Sharon Amity Rd",
-      "venueCity" : "Charlotte NC",
-      "venueName" : "Harris-Teeter S. Sharon Amity"
-    },
-    {
-      "date" : "2026-05-30",
-      "dayOfWeek" : "Saturday",
-      "endTime" : "9 PM",
-      "eventName" : "Franklin Court Grille",
-      "isPrivate" : false,
-      "startTime" : "6 PM",
-      "venueAddress" : "232 E Franklin St, Monroe, NC  28112, United States, Monroe",
-      "venueCity" : "Monroe",
-      "venueName" : "Franklin Court Grille"
-    },
     {
       "date" : "2026-06-05",
       "dayOfWeek" : "Friday",
