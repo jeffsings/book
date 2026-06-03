@@ -1,5 +1,5 @@
 {
-  "generated" : "May 30, 2026 at 5:01 PM",
+  "generated" : "Jun 2, 2026 at 9:04 PM",
   "gigs" : [
     {
       "date" : "2026-06-05",
@@ -145,6 +145,28 @@
       "venueName" : "The Peninsula Club"
     },
     {
+      "date" : "2026-08-07",
+      "dayOfWeek" : "Friday",
+      "endTime" : "9 PM",
+      "eventName" : "Model A Brewing Company",
+      "isPrivate" : false,
+      "startTime" : "6 PM",
+      "venueAddress" : "1175 Stonecrest Blvd, Tega Cay, SC 29708, United States",
+      "venueCity" : "Tega Cay",
+      "venueName" : "Model A Brewing Company"
+    },
+    {
+      "date" : "2026-08-08",
+      "dayOfWeek" : "Saturday",
+      "endTime" : "9 PM",
+      "eventName" : "Velvet Coupe Wine Bar",
+      "isPrivate" : false,
+      "startTime" : "6 PM",
+      "venueAddress" : "1177 Stonecrest Blvd, Fort Mill, SC  29708, United States",
+      "venueCity" : "Tega Cay",
+      "venueName" : "Velvet Coupe Wine Bar"
+    },
+    {
       "date" : "2026-08-14",
       "dayOfWeek" : "Friday",
       "endTime" : "8:30 PM",
@@ -165,6 +187,17 @@
       "venueAddress" : "Franklin Court Grille\n232 E Franklin St, Monroe, NC  28112, United States",
       "venueCity" : "",
       "venueName" : "Franklin Court Grille"
+    },
+    {
+      "date" : "2026-08-28",
+      "dayOfWeek" : "Friday",
+      "endTime" : "9 PM",
+      "eventName" : "Will of the Wisp",
+      "isPrivate" : false,
+      "startTime" : "6 PM",
+      "venueAddress" : "96 Keelson Row",
+      "venueCity" : "Bald Head Island NC",
+      "venueName" : "Will of the Wisp"
     },
     {
       "date" : "2026-09-04",
