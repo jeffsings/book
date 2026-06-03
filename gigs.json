@@ -1,5 +1,5 @@
 {
-  "generated" : "Jun 2, 2026 at 9:05 PM",
+  "generated" : "Jun 2, 2026 at 9:07 PM",
   "gigs" : [
     {
       "date" : "2026-06-05",
@@ -192,12 +192,12 @@
       "date" : "2026-08-28",
       "dayOfWeek" : "Friday",
       "endTime" : "9 PM",
-      "eventName" : "Will of the Wisp",
+      "eventName" : "Will of the Wisp (Bald Head Island)",
       "isPrivate" : false,
       "startTime" : "6 PM",
       "venueAddress" : "96 Keelson Row",
       "venueCity" : "Bald Head Island NC",
-      "venueName" : "Will of the Wisp"
+      "venueName" : "Will of the Wisp (Bald Head Island)"
     },
     {
       "date" : "2026-09-04",
