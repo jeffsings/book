@@ -1,26 +1,15 @@
 {
-  "generated" : "Jun 2, 2026 at 9:07 PM",
+  "generated" : "Jun 6, 2026 at 10:40 AM",
   "gigs" : [
-    {
-      "date" : "2026-06-05",
-      "dayOfWeek" : "Friday",
-      "endTime" : "9:30 PM",
-      "eventName" : "Private Event",
-      "isPrivate" : true,
-      "startTime" : "6:30 PM",
-      "venueAddress" : "",
-      "venueCity" : "",
-      "venueName" : "Charlotte CC patio"
-    },
     {
       "date" : "2026-06-19",
       "dayOfWeek" : "Friday",
       "endTime" : "9:30 PM",
-      "eventName" : "Private Event",
-      "isPrivate" : true,
+      "eventName" : "Charlotte Country Club",
+      "isPrivate" : false,
       "startTime" : "6:30 PM",
-      "venueAddress" : "",
-      "venueCity" : "",
+      "venueAddress" : "2465 Mecklenburg Ave",
+      "venueCity" : "Charlotte",
       "venueName" : "Charlotte Country Club"
     },
     {
@@ -88,6 +77,17 @@
       "venueAddress" : "232 E Franklin St, Monroe, NC  28112, United States",
       "venueCity" : "Monroe",
       "venueName" : "Franklin Court Grille"
+    },
+    {
+      "date" : "2026-07-11",
+      "dayOfWeek" : "Saturday",
+      "endTime" : "2 PM",
+      "eventName" : "Private Event",
+      "isPrivate" : true,
+      "startTime" : "10 AM",
+      "venueAddress" : "",
+      "venueCity" : "",
+      "venueName" : "Sing at Red Rocks party"
     },
     {
       "date" : "2026-07-17",
@@ -162,8 +162,8 @@
       "eventName" : "Velvet Coupe Wine Bar",
       "isPrivate" : false,
       "startTime" : "6 PM",
-      "venueAddress" : "1177 Stonecrest Blvd, Fort Mill, SC  29708, United States",
-      "venueCity" : "Tega Cay",
+      "venueAddress" : "1175 Stonecrest Blvd, Tega Cay SC",
+      "venueCity" : "Tega Cay SC",
       "venueName" : "Velvet Coupe Wine Bar"
     },
     {
@@ -191,13 +191,13 @@
     {
       "date" : "2026-08-28",
       "dayOfWeek" : "Friday",
-      "endTime" : "9 PM",
-      "eventName" : "Will of the Wisp (Bald Head Island)",
+      "endTime" : "8:30 PM",
+      "eventName" : "Will O' The Wisp",
       "isPrivate" : false,
-      "startTime" : "6 PM",
-      "venueAddress" : "96 Keelson Row",
-      "venueCity" : "Bald Head Island NC",
-      "venueName" : "Will of the Wisp (Bald Head Island)"
+      "startTime" : "5:30 PM",
+      "venueAddress" : "96 Keelson Row, Bald Head Island, NC  28461, United States",
+      "venueCity" : "Bald Head Island",
+      "venueName" : "Will O' The Wisp"
     },
     {
       "date" : "2026-09-04",
