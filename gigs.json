@@ -1,6 +1,17 @@
 {
-  "generated" : "Jun 6, 2026 at 10:40 AM",
+  "generated" : "Jun 12, 2026 at 6:26 PM",
   "gigs" : [
+    {
+      "date" : "2026-06-12",
+      "dayOfWeek" : "Friday",
+      "endTime" : "9 PM",
+      "eventName" : "Lake Park Gazebo",
+      "isPrivate" : false,
+      "startTime" : "7 PM",
+      "venueAddress" : "7105 Conifer Cir, Indian Trail, NC  28079, United States",
+      "venueCity" : "Lake Park",
+      "venueName" : "Lake Park Gazebo"
+    },
     {
       "date" : "2026-06-19",
       "dayOfWeek" : "Friday",
