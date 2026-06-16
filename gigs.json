@@ -1,17 +1,6 @@
 {
-  "generated" : "Jun 12, 2026 at 6:27 PM",
+  "generated" : "Jun 16, 2026 at 11:11 AM",
   "gigs" : [
-    {
-      "date" : "2026-06-12",
-      "dayOfWeek" : "Friday",
-      "endTime" : "9 PM",
-      "eventName" : "Lake Park Gazebo",
-      "isPrivate" : false,
-      "startTime" : "7 PM",
-      "venueAddress" : "7105 Conifer Cir, Indian Trail, NC  28079, United States",
-      "venueCity" : "Lake Park",
-      "venueName" : "Lake Park Gazebo"
-    },
     {
       "date" : "2026-06-19",
       "dayOfWeek" : "Friday",
@@ -145,6 +134,17 @@
       "venueName" : "Southern Range"
     },
     {
+      "date" : "2026-07-30",
+      "dayOfWeek" : "Thursday",
+      "endTime" : "8 PM",
+      "eventName" : "Harris-Teeter Smith Farm Rd",
+      "isPrivate" : false,
+      "startTime" : "5 PM",
+      "venueAddress" : "4701 Smith Farm Rd, Charlotte",
+      "venueCity" : "Charlotte",
+      "venueName" : "Harris-Teeter Smith Farm Rd"
+    },
+    {
       "date" : "2026-08-01",
       "dayOfWeek" : "Saturday",
       "endTime" : "9 PM",
@@ -176,6 +176,17 @@
       "venueAddress" : "1175 Stonecrest Blvd, Tega Cay SC",
       "venueCity" : "Tega Cay SC",
       "venueName" : "Velvet Coupe Wine Bar"
+    },
+    {
+      "date" : "2026-08-13",
+      "dayOfWeek" : "Thursday",
+      "endTime" : "8 PM",
+      "eventName" : "Harris-Teeter Weddington Road",
+      "isPrivate" : false,
+      "startTime" : "5 PM",
+      "venueAddress" : "5920 Weddington Rd",
+      "venueCity" : "Charlotte NC",
+      "venueName" : "Harris-Teeter Weddington Road"
     },
     {
       "date" : "2026-08-14",
@@ -231,6 +242,17 @@
       "venueAddress" : "Southern Range Brewing\n151 S Stewart St, Monroe, NC  28112, United States",
       "venueCity" : "",
       "venueName" : "Southern Range"
+    },
+    {
+      "date" : "2026-09-10",
+      "dayOfWeek" : "Thursday",
+      "endTime" : "8 PM",
+      "eventName" : "Harris-Teeter Waxhaw",
+      "isPrivate" : false,
+      "startTime" : "5 PM",
+      "venueAddress" : "8157 Kensington Dr",
+      "venueCity" : "waxhaw, nc ",
+      "venueName" : "Harris-Teeter Waxhaw"
     },
     {
       "date" : "2026-09-11",
