@@ -1,28 +1,6 @@
 {
-  "generated" : "Jun 16, 2026 at 11:13 AM",
+  "generated" : "Jun 25, 2026 at 1:55 AM",
   "gigs" : [
-    {
-      "date" : "2026-06-19",
-      "dayOfWeek" : "Friday",
-      "endTime" : "9:30 PM",
-      "eventName" : "Charlotte Country Club",
-      "isPrivate" : false,
-      "startTime" : "6:30 PM",
-      "venueAddress" : "2465 Mecklenburg Ave",
-      "venueCity" : "Charlotte",
-      "venueName" : "Charlotte Country Club"
-    },
-    {
-      "date" : "2026-06-20",
-      "dayOfWeek" : "Saturday",
-      "endTime" : "9 PM",
-      "eventName" : "Local Logic Monroe",
-      "isPrivate" : false,
-      "startTime" : "6 PM",
-      "venueAddress" : "128 S Main St",
-      "venueCity" : "Monroe ",
-      "venueName" : "Local Logic Monroe"
-    },
     {
       "date" : "2026-06-26",
       "dayOfWeek" : "Friday",
@@ -198,6 +176,17 @@
       "venueAddress" : "6803 Stevens Mill Rd, Matthews, NC 28104, United States",
       "venueCity" : "Matthews",
       "venueName" : "The Divide Golf Club"
+    },
+    {
+      "date" : "2026-08-15",
+      "dayOfWeek" : "Saturday",
+      "endTime" : "9 PM",
+      "eventName" : "Private Event",
+      "isPrivate" : true,
+      "startTime" : "6:30 PM",
+      "venueAddress" : "",
+      "venueCity" : "",
+      "venueName" : "Private party"
     },
     {
       "date" : "2026-08-22",
