@@ -1,17 +1,6 @@
 {
-  "generated" : "Jun 28, 2026 at 10:33 AM",
+  "generated" : "Jul 4, 2026 at 11:47 PM",
   "gigs" : [
-    {
-      "date" : "2026-07-03",
-      "dayOfWeek" : "Friday",
-      "endTime" : "10 PM",
-      "eventName" : "Peddlers Paradise Monroe",
-      "isPrivate" : false,
-      "startTime" : "7 PM",
-      "venueAddress" : "105 W Franklin St, Monroe, NC  28112, United States, Monroe",
-      "venueCity" : "Monroe",
-      "venueName" : "Peddlers Paradise Monroe"
-    },
     {
       "date" : "2026-07-04",
       "dayOfWeek" : "Saturday",
