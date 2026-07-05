@@ -1,17 +1,6 @@
 {
-  "generated" : "Jul 4, 2026 at 11:49 PM",
+  "generated" : "Jul 5, 2026 at 9:21 AM",
   "gigs" : [
-    {
-      "date" : "2026-07-04",
-      "dayOfWeek" : "Saturday",
-      "endTime" : "6 PM",
-      "eventName" : "Private party",
-      "isPrivate" : false,
-      "startTime" : "3 PM",
-      "venueAddress" : "315 Lester Davis Rd Waxhaw, NC, United States",
-      "venueCity" : "",
-      "venueName" : "Private party"
-    },
     {
       "date" : "2026-07-11",
       "dayOfWeek" : "Saturday",
