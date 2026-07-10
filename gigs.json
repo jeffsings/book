@@ -1,5 +1,5 @@
 {
-  "generated" : "Jul 9, 2026 at 12:43 PM",
+  "generated" : "Jul 10, 2026 at 6:48 AM",
   "gigs" : [
     {
       "date" : "2026-07-10",
@@ -13,8 +13,8 @@
       "venueName" : "Red Rocks Beer Garden"
     },
     {
-      "date" : "2026-07-10",
-      "dayOfWeek" : "Friday",
+      "date" : "2026-07-11",
+      "dayOfWeek" : "Saturday",
       "endTime" : "12 PM",
       "eventName" : "Private Event",
       "isPrivate" : true,
@@ -24,8 +24,8 @@
       "venueName" : "Sing at Red Rocks party"
     },
     {
-      "date" : "2026-07-16",
-      "dayOfWeek" : "Thursday",
+      "date" : "2026-07-17",
+      "dayOfWeek" : "Friday",
       "endTime" : "7 PM",
       "eventName" : "Private Event",
       "isPrivate" : true,
@@ -35,8 +35,8 @@
       "venueName" : "Rolling Hills Country Club"
     },
     {
-      "date" : "2026-07-17",
-      "dayOfWeek" : "Friday",
+      "date" : "2026-07-18",
+      "dayOfWeek" : "Saturday",
       "endTime" : "7 PM",
       "eventName" : "Franklin Court Grille",
       "isPrivate" : false,
