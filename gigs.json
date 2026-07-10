@@ -1,5 +1,5 @@
 {
-  "generated" : "Jul 10, 2026 at 6:49 AM",
+  "generated" : "Jul 10, 2026 at 6:52 AM",
   "gigs" : [
     {
       "date" : "2026-07-10",
@@ -16,12 +16,12 @@
       "date" : "2026-07-11",
       "dayOfWeek" : "Saturday",
       "endTime" : "12 PM",
-      "eventName" : "Private Event",
-      "isPrivate" : true,
+      "eventName" : "Sing at Sam Austin art gallery",
+      "isPrivate" : false,
       "startTime" : "8 AM",
-      "venueAddress" : "",
-      "venueCity" : "",
-      "venueName" : "Sing at Red Rocks party"
+      "venueAddress" : "1701 15th St.,  Boulder, CO 80302",
+      "venueCity" : "Boulder ",
+      "venueName" : "Sing at Sam Austin art gallery"
     },
     {
       "date" : "2026-07-17",
