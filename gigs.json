@@ -1,28 +1,6 @@
 {
-  "generated" : "Jul 10, 2026 at 6:53 AM",
+  "generated" : "Jul 12, 2026 at 7:38 AM",
   "gigs" : [
-    {
-      "date" : "2026-07-10",
-      "dayOfWeek" : "Friday",
-      "endTime" : "2 PM",
-      "eventName" : "Red Rocks Beer Garden",
-      "isPrivate" : false,
-      "startTime" : "12 PM",
-      "venueAddress" : "116 Stone St, Morrison, CO  80465, United States",
-      "venueCity" : "Morrison",
-      "venueName" : "Red Rocks Beer Garden"
-    },
-    {
-      "date" : "2026-07-11",
-      "dayOfWeek" : "Saturday",
-      "endTime" : "12 PM",
-      "eventName" : "Sing at Sam Austin art gallery",
-      "isPrivate" : false,
-      "startTime" : "8 AM",
-      "venueAddress" : "1701 15th St.,  Boulder, CO 80302",
-      "venueCity" : "Boulder ",
-      "venueName" : "Sing at Sam Austin art gallery"
-    },
     {
       "date" : "2026-07-17",
       "dayOfWeek" : "Friday",
@@ -46,17 +24,6 @@
       "venueName" : "Franklin Court Grille"
     },
     {
-      "date" : "2026-07-23",
-      "dayOfWeek" : "Thursday",
-      "endTime" : "8 PM",
-      "eventName" : "Local Logic",
-      "isPrivate" : false,
-      "startTime" : "5 PM",
-      "venueAddress" : "121 S Main St, Mount Holly, NC  28120, United States",
-      "venueCity" : "Mount Holly",
-      "venueName" : "Local Logic"
-    },
-    {
       "date" : "2026-07-24",
       "dayOfWeek" : "Friday",
       "endTime" : "7 PM",
@@ -66,6 +33,17 @@
       "venueAddress" : "Southern Range Brewing\n151 S Stewart St, Monroe, NC  28112, United States",
       "venueCity" : "",
       "venueName" : "Southern Range"
+    },
+    {
+      "date" : "2026-07-25",
+      "dayOfWeek" : "Saturday",
+      "endTime" : "8 PM",
+      "eventName" : "Local Logic",
+      "isPrivate" : false,
+      "startTime" : "5 PM",
+      "venueAddress" : "121 S Main St, Mount Holly, NC  28120, United States",
+      "venueCity" : "Mount Holly",
+      "venueName" : "Local Logic"
     },
     {
       "date" : "2026-07-30",
@@ -79,8 +57,8 @@
       "venueName" : "Harris-Teeter Smith Farm Rd"
     },
     {
-      "date" : "2026-07-31",
-      "dayOfWeek" : "Friday",
+      "date" : "2026-08-01",
+      "dayOfWeek" : "Saturday",
       "endTime" : "7 PM",
       "eventName" : "Private Event",
       "isPrivate" : true,
