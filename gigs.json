@@ -1,17 +1,6 @@
 {
-  "generated" : "Jul 21, 2026 at 3:09 PM",
+  "generated" : "Jul 25, 2026 at 11:53 PM",
   "gigs" : [
-    {
-      "date" : "2026-07-24",
-      "dayOfWeek" : "Friday",
-      "endTime" : "10 PM",
-      "eventName" : "Local Logic",
-      "isPrivate" : false,
-      "startTime" : "7 PM",
-      "venueAddress" : "121 S Main St, Mount Holly, NC  28120, United States",
-      "venueCity" : "Mount Holly",
-      "venueName" : "Local Logic"
-    },
     {
       "date" : "2026-07-25",
       "dayOfWeek" : "Saturday",
@@ -235,13 +224,13 @@
     {
       "date" : "2026-10-16",
       "dayOfWeek" : "Friday",
-      "endTime" : "9 PM",
+      "endTime" : "10 PM",
       "eventName" : "Private Event",
       "isPrivate" : true,
-      "startTime" : "6 PM",
+      "startTime" : "7 PM",
       "venueAddress" : "",
       "venueCity" : "",
-      "venueName" : "Marci Micciantuono daughter wedding"
+      "venueName" : "Pizza Baby"
     },
     {
       "date" : "2026-10-17",
