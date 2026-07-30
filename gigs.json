@@ -1,5 +1,5 @@
 {
-  "generated" : "Jul 30, 2026 at 11:19 AM",
+  "generated" : "Jul 30, 2026 at 11:25 AM",
   "gigs" : [
     {
       "date" : "2026-07-30",
@@ -27,10 +27,10 @@
       "date" : "2026-08-01",
       "dayOfWeek" : "Saturday",
       "endTime" : "9 PM",
-      "eventName" : "Private Event",
-      "isPrivate" : true,
+      "eventName" : "The Peninsula Club",
+      "isPrivate" : false,
       "startTime" : "6 PM",
-      "venueAddress" : "",
+      "venueAddress" : "The Peninsula Club\n19101 Peninsula Club Dr, Cornelius, NC  28031, United States",
       "venueCity" : "",
       "venueName" : "The Peninsula Club"
     },
