@@ -1,17 +1,6 @@
 {
-  "generated" : "Jul 25, 2026 at 11:55 PM",
+  "generated" : "Jul 30, 2026 at 11:19 AM",
   "gigs" : [
-    {
-      "date" : "2026-07-25",
-      "dayOfWeek" : "Saturday",
-      "endTime" : "9 PM",
-      "eventName" : "Southern Range",
-      "isPrivate" : false,
-      "startTime" : "6 PM",
-      "venueAddress" : "Southern Range Brewing\n151 S Stewart St, Monroe, NC  28112, United States",
-      "venueCity" : "",
-      "venueName" : "Southern Range"
-    },
     {
       "date" : "2026-07-30",
       "dayOfWeek" : "Thursday",
@@ -22,6 +11,17 @@
       "venueAddress" : "4701 Smith Farm Rd, Charlotte",
       "venueCity" : "Charlotte",
       "venueName" : "Harris-Teeter Smith Farm Rd"
+    },
+    {
+      "date" : "2026-07-31",
+      "dayOfWeek" : "Friday",
+      "endTime" : "9:30 PM",
+      "eventName" : "Franklin Court Grille",
+      "isPrivate" : false,
+      "startTime" : "6:30 PM",
+      "venueAddress" : "232 E Franklin St.",
+      "venueCity" : "Monroe NC",
+      "venueName" : "Franklin Court Grille"
     },
     {
       "date" : "2026-08-01",
