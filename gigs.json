@@ -1,17 +1,6 @@
 {
-  "generated" : "Jul 30, 2026 at 11:25 AM",
+  "generated" : "Jul 31, 2026 at 10:55 AM",
   "gigs" : [
-    {
-      "date" : "2026-07-30",
-      "dayOfWeek" : "Thursday",
-      "endTime" : "8 PM",
-      "eventName" : "Harris-Teeter Smith Farm Rd",
-      "isPrivate" : false,
-      "startTime" : "5 PM",
-      "venueAddress" : "4701 Smith Farm Rd, Charlotte",
-      "venueCity" : "Charlotte",
-      "venueName" : "Harris-Teeter Smith Farm Rd"
-    },
     {
       "date" : "2026-07-31",
       "dayOfWeek" : "Friday",
