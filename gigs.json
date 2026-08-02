@@ -1,28 +1,6 @@
 {
-  "generated" : "Jul 31, 2026 at 10:55 AM",
+  "generated" : "Aug 2, 2026 at 1:46 PM",
   "gigs" : [
-    {
-      "date" : "2026-07-31",
-      "dayOfWeek" : "Friday",
-      "endTime" : "9:30 PM",
-      "eventName" : "Franklin Court Grille",
-      "isPrivate" : false,
-      "startTime" : "6:30 PM",
-      "venueAddress" : "232 E Franklin St.",
-      "venueCity" : "Monroe NC",
-      "venueName" : "Franklin Court Grille"
-    },
-    {
-      "date" : "2026-08-01",
-      "dayOfWeek" : "Saturday",
-      "endTime" : "9 PM",
-      "eventName" : "The Peninsula Club",
-      "isPrivate" : false,
-      "startTime" : "6 PM",
-      "venueAddress" : "The Peninsula Club\n19101 Peninsula Club Dr, Cornelius, NC  28031, United States",
-      "venueCity" : "",
-      "venueName" : "The Peninsula Club"
-    },
     {
       "date" : "2026-08-07",
       "dayOfWeek" : "Friday",
