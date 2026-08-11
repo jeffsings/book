@@ -1,17 +1,6 @@
 {
-  "generated" : "Aug 8, 2026 at 11:56 AM",
+  "generated" : "Aug 11, 2026 at 5:31 PM",
   "gigs" : [
-    {
-      "date" : "2026-08-08",
-      "dayOfWeek" : "Saturday",
-      "endTime" : "9 PM",
-      "eventName" : "Velvet Coupe Wine Bar",
-      "isPrivate" : false,
-      "startTime" : "6 PM",
-      "venueAddress" : "1175 Stonecrest Blvd, Tega Cay SC",
-      "venueCity" : "Tega Cay SC",
-      "venueName" : "Velvet Coupe Wine Bar"
-    },
     {
       "date" : "2026-08-13",
       "dayOfWeek" : "Thursday",
@@ -92,10 +81,10 @@
     {
       "date" : "2026-09-10",
       "dayOfWeek" : "Thursday",
-      "endTime" : "8 PM",
+      "endTime" : "9 PM",
       "eventName" : "Harris-Teeter Waxhaw",
       "isPrivate" : false,
-      "startTime" : "5 PM",
+      "startTime" : "6 PM",
       "venueAddress" : "8157 Kensington Dr",
       "venueCity" : "waxhaw, nc ",
       "venueName" : "Harris-Teeter Waxhaw"
@@ -154,6 +143,17 @@
       "venueAddress" : "6803 Stevens Mill Rd, Matthews, NC 28104, United States",
       "venueCity" : "Matthews",
       "venueName" : "The Divide Golf Club"
+    },
+    {
+      "date" : "2026-09-26",
+      "dayOfWeek" : "Saturday",
+      "endTime" : "9 PM",
+      "eventName" : "Americana Beer Company",
+      "isPrivate" : false,
+      "startTime" : "6 PM",
+      "venueAddress" : "222 N Main St, Monroe, NC  28112, United States",
+      "venueCity" : "Monroe",
+      "venueName" : "Americana Beer Company"
     },
     {
       "date" : "2026-10-02",
@@ -255,6 +255,17 @@
       "venueName" : "Southern Range"
     },
     {
+      "date" : "2026-12-05",
+      "dayOfWeek" : "Saturday",
+      "endTime" : "7 PM",
+      "eventName" : "Americana Beer Company",
+      "isPrivate" : false,
+      "startTime" : "4 PM",
+      "venueAddress" : "222 N Main St, Monroe, NC  28112, United States, Monroe",
+      "venueCity" : "Monroe",
+      "venueName" : "Americana Beer Company"
+    },
+    {
       "date" : "2026-12-23",
       "dayOfWeek" : "Wednesday",
       "endTime" : "1:30 PM",
@@ -264,6 +275,17 @@
       "venueAddress" : "",
       "venueCity" : "",
       "venueName" : "Charlotte Country Club"
+    },
+    {
+      "date" : "2027-03-06",
+      "dayOfWeek" : "Saturday",
+      "endTime" : "9 PM",
+      "eventName" : "Americana Beer Company",
+      "isPrivate" : false,
+      "startTime" : "6 PM",
+      "venueAddress" : "222 N Main St, Monroe, NC  28112, United States",
+      "venueCity" : "Monroe",
+      "venueName" : "Americana Beer Company"
     }
   ]
 }
