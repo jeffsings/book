@@ -1,39 +1,6 @@
 {
-  "generated" : "Aug 11, 2026 at 5:31 PM",
+  "generated" : "Aug 16, 2026 at 6:03 PM",
   "gigs" : [
-    {
-      "date" : "2026-08-13",
-      "dayOfWeek" : "Thursday",
-      "endTime" : "8 PM",
-      "eventName" : "Harris-Teeter Weddington Road",
-      "isPrivate" : false,
-      "startTime" : "5 PM",
-      "venueAddress" : "5920 Weddington Rd",
-      "venueCity" : "Charlotte NC",
-      "venueName" : "Harris-Teeter Weddington Road"
-    },
-    {
-      "date" : "2026-08-14",
-      "dayOfWeek" : "Friday",
-      "endTime" : "8:30 PM",
-      "eventName" : "The Divide Golf Club",
-      "isPrivate" : false,
-      "startTime" : "5:30 PM",
-      "venueAddress" : "6803 Stevens Mill Rd, Matthews, NC 28104, United States",
-      "venueCity" : "Matthews",
-      "venueName" : "The Divide Golf Club"
-    },
-    {
-      "date" : "2026-08-15",
-      "dayOfWeek" : "Saturday",
-      "endTime" : "9 PM",
-      "eventName" : "Private Event",
-      "isPrivate" : true,
-      "startTime" : "6:30 PM",
-      "venueAddress" : "",
-      "venueCity" : "",
-      "venueName" : "Private party"
-    },
     {
       "date" : "2026-08-22",
       "dayOfWeek" : "Saturday",
@@ -154,6 +121,17 @@
       "venueAddress" : "222 N Main St, Monroe, NC  28112, United States",
       "venueCity" : "Monroe",
       "venueName" : "Americana Beer Company"
+    },
+    {
+      "date" : "2026-09-30",
+      "dayOfWeek" : "Wednesday",
+      "endTime" : "9 PM",
+      "eventName" : "The Peninsula Club",
+      "isPrivate" : false,
+      "startTime" : "6 PM",
+      "venueAddress" : "19101 Peninsula Club Dr, Cornelius, NC  28031, United States, Cornelius",
+      "venueCity" : "Cornelius",
+      "venueName" : "The Peninsula Club"
     },
     {
       "date" : "2026-10-02",
