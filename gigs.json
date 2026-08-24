@@ -1,13 +1,13 @@
 {
-  "generated" : "Aug 24, 2026 at 4:12 PM",
+  "generated" : "Aug 24, 2026 at 4:16 PM",
   "gigs" : [
     {
       "date" : "2026-08-28",
       "dayOfWeek" : "Friday",
-      "endTime" : "8:30 PM",
+      "endTime" : "8 PM",
       "eventName" : "Will O' The Wisp",
       "isPrivate" : false,
-      "startTime" : "5:30 PM",
+      "startTime" : "5 PM",
       "venueAddress" : "96 Keelson Row, Bald Head Island, NC  28461, United States",
       "venueCity" : "Bald Head Island",
       "venueName" : "Will O' The Wisp"
