@@ -1,5 +1,5 @@
 {
-  "generated" : "Aug 24, 2026 at 3:26 PM",
+  "generated" : "Aug 24, 2026 at 4:12 PM",
   "gigs" : [
     {
       "date" : "2026-08-28",
@@ -49,12 +49,12 @@
       "date" : "2026-09-11",
       "dayOfWeek" : "Friday",
       "endTime" : "9:30 PM",
-      "eventName" : "Charlotte Country Club",
+      "eventName" : "Charlotte CC patio (private)",
       "isPrivate" : false,
       "startTime" : "6:30 PM",
       "venueAddress" : "2465 Mecklenburg Ave, Charlotte, NC  28205, United States",
       "venueCity" : "Charlotte",
-      "venueName" : "Charlotte Country Club"
+      "venueName" : "Charlotte CC patio (private)"
     },
     {
       "date" : "2026-09-12",
@@ -126,12 +126,12 @@
       "date" : "2026-10-02",
       "dayOfWeek" : "Friday",
       "endTime" : "9:30 PM",
-      "eventName" : "Charlotte CC patio",
+      "eventName" : "Charlotte CC patio (private)",
       "isPrivate" : false,
       "startTime" : "6:30 PM",
       "venueAddress" : "Charlotte Country Club\n2465 Mecklenburg Ave\nCharlotte NC 28205\nUnited States",
       "venueCity" : "",
-      "venueName" : "Charlotte CC patio"
+      "venueName" : "Charlotte CC patio (private)"
     },
     {
       "date" : "2026-10-08",
@@ -148,12 +148,12 @@
       "date" : "2026-10-09",
       "dayOfWeek" : "Friday",
       "endTime" : "9:30 PM",
-      "eventName" : "Charlotte CC patio",
+      "eventName" : "Charlotte CC patio (private)",
       "isPrivate" : false,
       "startTime" : "6:30 PM",
       "venueAddress" : "Charlotte Country Club\n2465 Mecklenburg Ave\nCharlotte NC 28205\nUnited States",
       "venueCity" : "",
-      "venueName" : "Charlotte CC patio"
+      "venueName" : "Charlotte CC patio (private)"
     },
     {
       "date" : "2026-10-10",
