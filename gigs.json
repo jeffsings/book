@@ -1,16 +1,16 @@
 {
-  "generated" : "Sep 13, 2026 at 11:30 AM",
+  "generated" : "Sep 13, 2026 at 11:35 AM",
   "gigs" : [
     {
       "date" : "2026-09-17",
       "dayOfWeek" : "Thursday",
       "endTime" : "8:15 PM",
-      "eventName" : "Harris-Teeter Blakeney",
+      "eventName" : "Harris-Teeter Waverly",
       "isPrivate" : false,
       "startTime" : "5:15 PM",
-      "venueAddress" : "Golf Links Rd",
+      "venueAddress" : "11135 Golf Links Dr N",
       "venueCity" : "Charlotte NC",
-      "venueName" : "Harris-Teeter Blakeney"
+      "venueName" : "Harris-Teeter Waverly"
     },
     {
       "date" : "2026-09-18",
