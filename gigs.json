@@ -1,61 +1,6 @@
 {
-  "generated" : "Sep 4, 2026 at 12:20 AM",
+  "generated" : "Sep 13, 2026 at 11:30 AM",
   "gigs" : [
-    {
-      "date" : "2026-09-04",
-      "dayOfWeek" : "Friday",
-      "endTime" : "10 PM",
-      "eventName" : "Local Logic",
-      "isPrivate" : false,
-      "startTime" : "7 PM",
-      "venueAddress" : "121 S Main St, Mount Holly, NC  28120, United States",
-      "venueCity" : "Mount Holly",
-      "venueName" : "Local Logic"
-    },
-    {
-      "date" : "2026-09-05",
-      "dayOfWeek" : "Saturday",
-      "endTime" : "9 PM",
-      "eventName" : "Southern Range",
-      "isPrivate" : false,
-      "startTime" : "6 PM",
-      "venueAddress" : "Southern Range Brewing\n151 S Stewart St, Monroe, NC  28112, United States",
-      "venueCity" : "",
-      "venueName" : "Southern Range"
-    },
-    {
-      "date" : "2026-09-10",
-      "dayOfWeek" : "Thursday",
-      "endTime" : "9 PM",
-      "eventName" : "Harris-Teeter Waxhaw",
-      "isPrivate" : false,
-      "startTime" : "6 PM",
-      "venueAddress" : "8157 Kensington Dr",
-      "venueCity" : "waxhaw, nc ",
-      "venueName" : "Harris-Teeter Waxhaw"
-    },
-    {
-      "date" : "2026-09-11",
-      "dayOfWeek" : "Friday",
-      "endTime" : "9:30 PM",
-      "eventName" : "Charlotte CC patio (private)",
-      "isPrivate" : false,
-      "startTime" : "6:30 PM",
-      "venueAddress" : "2465 Mecklenburg Ave, Charlotte, NC  28205, United States",
-      "venueCity" : "Charlotte",
-      "venueName" : "Charlotte CC patio (private)"
-    },
-    {
-      "date" : "2026-09-12",
-      "dayOfWeek" : "Saturday",
-      "endTime" : "9 PM",
-      "eventName" : "Franklin Court Grille",
-      "isPrivate" : false,
-      "startTime" : "5:30 PM",
-      "venueAddress" : "Franklin Court Grille\n232 E Franklin St, Monroe, NC  28112, United States",
-      "venueCity" : "",
-      "venueName" : "Franklin Court Grille"
-    },
     {
       "date" : "2026-09-17",
       "dayOfWeek" : "Thursday",
@@ -200,6 +145,17 @@
       "venueName" : "Peddlers Paradise Monroe"
     },
     {
+      "date" : "2026-10-24",
+      "dayOfWeek" : "Saturday",
+      "endTime" : "9 PM",
+      "eventName" : "Private party Waxhaw Cresswind",
+      "isPrivate" : false,
+      "startTime" : "6 PM",
+      "venueAddress" : "4006 Cresswind Blvd\t Monroe, NC 28110",
+      "venueCity" : "Monroe",
+      "venueName" : "Private party Waxhaw Cresswind"
+    },
+    {
       "date" : "2026-10-30",
       "dayOfWeek" : "Friday",
       "endTime" : "8:30 PM",
@@ -242,6 +198,17 @@
       "venueAddress" : "8157 Kensington Dr Waxhaw, NC, United States",
       "venueCity" : "",
       "venueName" : "Harris-Teeter Waxhaw"
+    },
+    {
+      "date" : "2026-11-20",
+      "dayOfWeek" : "Friday",
+      "endTime" : "9 PM",
+      "eventName" : "Velvet Coupe Wine Bar",
+      "isPrivate" : false,
+      "startTime" : "6 PM",
+      "venueAddress" : "1175 Stonecrest Blvd, Tega Cay SC",
+      "venueCity" : "Tega Cay SC",
+      "venueName" : "Velvet Coupe Wine Bar"
     },
     {
       "date" : "2026-12-05",
