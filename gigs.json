@@ -1,17 +1,6 @@
 {
-  "generated" : "Sep 18, 2026 at 11:19 AM",
+  "generated" : "Sep 18, 2026 at 6:48 PM",
   "gigs" : [
-    {
-      "date" : "2026-09-18",
-      "dayOfWeek" : "Friday",
-      "endTime" : "9 PM",
-      "eventName" : "Private Event",
-      "isPrivate" : true,
-      "startTime" : "6 PM",
-      "venueAddress" : "",
-      "venueCity" : "",
-      "venueName" : "Murphy rehearsal"
-    },
     {
       "date" : "2026-09-25",
       "dayOfWeek" : "Friday",
@@ -225,12 +214,12 @@
       "date" : "2026-12-19",
       "dayOfWeek" : "Saturday",
       "endTime" : "10:30 PM",
-      "eventName" : "Private Party",
+      "eventName" : "Private Party - Price House",
       "isPrivate" : false,
       "startTime" : "6 PM",
       "venueAddress" : "",
       "venueCity" : "",
-      "venueName" : "Private Party"
+      "venueName" : "Private Party - Price House"
     },
     {
       "date" : "2026-12-23",
@@ -253,6 +242,17 @@
       "venueAddress" : "222 N Main St, Monroe, NC  28112, United States",
       "venueCity" : "Monroe",
       "venueName" : "Americana Beer Company"
+    },
+    {
+      "date" : "2027-09-18",
+      "dayOfWeek" : "Saturday",
+      "endTime" : "9 PM",
+      "eventName" : "Private Event",
+      "isPrivate" : true,
+      "startTime" : "6 PM",
+      "venueAddress" : "",
+      "venueCity" : "",
+      "venueName" : "Murphy rehearsal"
     }
   ]
 }
