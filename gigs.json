@@ -1,17 +1,6 @@
 {
-  "generated" : "Sep 13, 2026 at 11:35 AM",
+  "generated" : "Sep 18, 2026 at 11:19 AM",
   "gigs" : [
-    {
-      "date" : "2026-09-17",
-      "dayOfWeek" : "Thursday",
-      "endTime" : "8:15 PM",
-      "eventName" : "Harris-Teeter Waverly",
-      "isPrivate" : false,
-      "startTime" : "5:15 PM",
-      "venueAddress" : "11135 Golf Links Dr N",
-      "venueCity" : "Charlotte NC",
-      "venueName" : "Harris-Teeter Waverly"
-    },
     {
       "date" : "2026-09-18",
       "dayOfWeek" : "Friday",
@@ -231,6 +220,17 @@
       "venueAddress" : "5920 Weddington Rd",
       "venueCity" : "Charlotte NC",
       "venueName" : "Harris-Teeter Weddington"
+    },
+    {
+      "date" : "2026-12-19",
+      "dayOfWeek" : "Saturday",
+      "endTime" : "10:30 PM",
+      "eventName" : "Private Party",
+      "isPrivate" : false,
+      "startTime" : "6 PM",
+      "venueAddress" : "",
+      "venueCity" : "",
+      "venueName" : "Private Party"
     },
     {
       "date" : "2026-12-23",
