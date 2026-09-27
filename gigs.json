@@ -1,28 +1,6 @@
 {
-  "generated" : "Sep 18, 2026 at 6:48 PM",
+  "generated" : "Sep 27, 2026 at 4:29 PM",
   "gigs" : [
-    {
-      "date" : "2026-09-25",
-      "dayOfWeek" : "Friday",
-      "endTime" : "8:30 PM",
-      "eventName" : "The Divide Golf Club",
-      "isPrivate" : false,
-      "startTime" : "5:30 PM",
-      "venueAddress" : "6803 Stevens Mill Rd, Matthews, NC 28104, United States",
-      "venueCity" : "Matthews",
-      "venueName" : "The Divide Golf Club"
-    },
-    {
-      "date" : "2026-09-26",
-      "dayOfWeek" : "Saturday",
-      "endTime" : "9 PM",
-      "eventName" : "Americana Beer Company",
-      "isPrivate" : false,
-      "startTime" : "6 PM",
-      "venueAddress" : "222 N Main St, Monroe, NC  28112, United States",
-      "venueCity" : "Monroe",
-      "venueName" : "Americana Beer Company"
-    },
     {
       "date" : "2026-09-30",
       "dayOfWeek" : "Wednesday",
@@ -125,10 +103,10 @@
     {
       "date" : "2026-10-24",
       "dayOfWeek" : "Saturday",
-      "endTime" : "9 PM",
+      "endTime" : "3:30 PM",
       "eventName" : "Private party Waxhaw Cresswind",
       "isPrivate" : false,
-      "startTime" : "6 PM",
+      "startTime" : "12:30 PM",
       "venueAddress" : "4006 Cresswind Blvd\t Monroe, NC 28110",
       "venueCity" : "Monroe",
       "venueName" : "Private party Waxhaw Cresswind"
@@ -211,6 +189,17 @@
       "venueName" : "Harris-Teeter Weddington"
     },
     {
+      "date" : "2026-12-18",
+      "dayOfWeek" : "Friday",
+      "endTime" : "5 PM",
+      "eventName" : "Charlotte Country Club",
+      "isPrivate" : false,
+      "startTime" : "2 PM",
+      "venueAddress" : "2465 Mecklenburg Ave, Charlotte, NC  28205, United States",
+      "venueCity" : "Charlotte",
+      "venueName" : "Charlotte Country Club"
+    },
+    {
       "date" : "2026-12-19",
       "dayOfWeek" : "Saturday",
       "endTime" : "10:30 PM",
@@ -220,17 +209,6 @@
       "venueAddress" : "",
       "venueCity" : "",
       "venueName" : "Private Party - Price House"
-    },
-    {
-      "date" : "2026-12-23",
-      "dayOfWeek" : "Wednesday",
-      "endTime" : "1:30 PM",
-      "eventName" : "Private Event",
-      "isPrivate" : true,
-      "startTime" : "12:30 PM",
-      "venueAddress" : "",
-      "venueCity" : "",
-      "venueName" : "Charlotte Country Club"
     },
     {
       "date" : "2027-03-06",
