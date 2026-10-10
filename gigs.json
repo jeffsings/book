@@ -1,50 +1,6 @@
 {
-  "generated" : "Sep 27, 2026 at 4:43 PM",
+  "generated" : "Oct 10, 2026 at 8:27 AM",
   "gigs" : [
-    {
-      "date" : "2026-09-30",
-      "dayOfWeek" : "Wednesday",
-      "endTime" : "9 PM",
-      "eventName" : "The Peninsula Club (private)",
-      "isPrivate" : false,
-      "startTime" : "6 PM",
-      "venueAddress" : "19101 Peninsula Club Dr, Cornelius, NC  28031, United States, Cornelius",
-      "venueCity" : "Cornelius",
-      "venueName" : "The Peninsula Club (private)"
-    },
-    {
-      "date" : "2026-10-02",
-      "dayOfWeek" : "Friday",
-      "endTime" : "9:30 PM",
-      "eventName" : "Charlotte CC patio (private)",
-      "isPrivate" : false,
-      "startTime" : "6:30 PM",
-      "venueAddress" : "Charlotte Country Club\n2465 Mecklenburg Ave\nCharlotte NC 28205\nUnited States",
-      "venueCity" : "",
-      "venueName" : "Charlotte CC patio (private)"
-    },
-    {
-      "date" : "2026-10-08",
-      "dayOfWeek" : "Thursday",
-      "endTime" : "8:30 PM",
-      "eventName" : "Harris-Teeter Smith Farm Rd",
-      "isPrivate" : false,
-      "startTime" : "5:30 PM",
-      "venueAddress" : "4701 Smith Farm Rd, Charlotte, Charlotte",
-      "venueCity" : "Charlotte",
-      "venueName" : "Harris-Teeter Smith Farm Rd"
-    },
-    {
-      "date" : "2026-10-09",
-      "dayOfWeek" : "Friday",
-      "endTime" : "9:30 PM",
-      "eventName" : "Charlotte CC patio (private)",
-      "isPrivate" : false,
-      "startTime" : "6:30 PM",
-      "venueAddress" : "Charlotte Country Club\n2465 Mecklenburg Ave\nCharlotte NC 28205\nUnited States",
-      "venueCity" : "",
-      "venueName" : "Charlotte CC patio (private)"
-    },
     {
       "date" : "2026-10-10",
       "dayOfWeek" : "Saturday",
@@ -167,7 +123,7 @@
       "venueName" : "Velvet Coupe Wine Bar"
     },
     {
-      "date" : "2026-12-05",
+      "date" : "2026-11-21",
       "dayOfWeek" : "Saturday",
       "endTime" : "7 PM",
       "eventName" : "Americana Beer Company",
@@ -176,6 +132,17 @@
       "venueAddress" : "222 N Main St, Monroe, NC  28112, United States, Monroe",
       "venueCity" : "Monroe",
       "venueName" : "Americana Beer Company"
+    },
+    {
+      "date" : "2026-12-05",
+      "dayOfWeek" : "Saturday",
+      "endTime" : "9 PM",
+      "eventName" : "Grace Chesney Powers party",
+      "isPrivate" : false,
+      "startTime" : "5 PM",
+      "venueAddress" : "",
+      "venueCity" : "",
+      "venueName" : "Grace Chesney Powers party"
     },
     {
       "date" : "2026-12-17",
@@ -198,17 +165,6 @@
       "venueAddress" : "2465 Mecklenburg Ave, Charlotte, NC  28205, United States",
       "venueCity" : "Charlotte",
       "venueName" : "Charlotte Country Club"
-    },
-    {
-      "date" : "2026-12-19",
-      "dayOfWeek" : "Saturday",
-      "endTime" : "10:30 PM",
-      "eventName" : "Private Party - Price House",
-      "isPrivate" : false,
-      "startTime" : "6 PM",
-      "venueAddress" : "",
-      "venueCity" : "",
-      "venueName" : "Private Party - Price House"
     },
     {
       "date" : "2027-03-06",
