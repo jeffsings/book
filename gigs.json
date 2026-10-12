@@ -1,17 +1,6 @@
 {
-  "generated" : "Oct 10, 2026 at 8:27 AM",
+  "generated" : "Oct 11, 2026 at 9:02 PM",
   "gigs" : [
-    {
-      "date" : "2026-10-10",
-      "dayOfWeek" : "Saturday",
-      "endTime" : "9 PM",
-      "eventName" : "Local Logic Monroe",
-      "isPrivate" : false,
-      "startTime" : "6 PM",
-      "venueAddress" : "Local Logic\n128 S Main St, Monroe, NC  28112, United States",
-      "venueCity" : "",
-      "venueName" : "Local Logic Monroe"
-    },
     {
       "date" : "2026-10-15",
       "dayOfWeek" : "Thursday",
