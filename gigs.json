@@ -1,17 +1,6 @@
 {
-  "generated" : "Oct 11, 2026 at 9:02 PM",
+  "generated" : "Oct 16, 2026 at 5:47 AM",
   "gigs" : [
-    {
-      "date" : "2026-10-15",
-      "dayOfWeek" : "Thursday",
-      "endTime" : "8:30 PM",
-      "eventName" : "Harris-Teeter Weddington",
-      "isPrivate" : false,
-      "startTime" : "5:30 PM",
-      "venueAddress" : "5920 Weddington Rd",
-      "venueCity" : "Charlotte NC",
-      "venueName" : "Harris-Teeter Weddington"
-    },
     {
       "date" : "2026-10-16",
       "dayOfWeek" : "Friday",
