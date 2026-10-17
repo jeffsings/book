@@ -1,17 +1,6 @@
 {
-  "generated" : "Oct 16, 2026 at 5:47 AM",
+  "generated" : "Oct 17, 2026 at 8:13 AM",
   "gigs" : [
-    {
-      "date" : "2026-10-16",
-      "dayOfWeek" : "Friday",
-      "endTime" : "10 PM",
-      "eventName" : "Private Event",
-      "isPrivate" : true,
-      "startTime" : "7 PM",
-      "venueAddress" : "",
-      "venueCity" : "",
-      "venueName" : "Pizza Baby"
-    },
     {
       "date" : "2026-10-17",
       "dayOfWeek" : "Saturday",
