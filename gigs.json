@@ -1,17 +1,6 @@
 {
-  "generated" : "Oct 17, 2026 at 8:13 AM",
+  "generated" : "Oct 17, 2026 at 11:32 PM",
   "gigs" : [
-    {
-      "date" : "2026-10-17",
-      "dayOfWeek" : "Saturday",
-      "endTime" : "9 PM",
-      "eventName" : "Franklin Court Grille",
-      "isPrivate" : false,
-      "startTime" : "5:30 PM",
-      "venueAddress" : "Franklin Court Grille\n232 E Franklin St, Monroe, NC  28112, United States",
-      "venueCity" : "",
-      "venueName" : "Franklin Court Grille"
-    },
     {
       "date" : "2026-10-23",
       "dayOfWeek" : "Friday",
